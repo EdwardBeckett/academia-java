@@ -3,12 +3,16 @@ Academia Java
 
 Curso Gratuito para Aprender el Lenguaje Java.
 
-Temario
+En la carpeta Documentos estan las guias del curso de Java.
 
-1.- Operadores
-2.- Polimorfismo
-3.- Encapsulacion.
+Ejercicios
+
+1.- ClasesYObjetos: Ejercicios de clases Java
+2.- ReferenciasYPrimitivos: Ejercicios de tipos de variables
+3.- SimpleDotComGame: Juego para adivinar palabras en una fila
+4.- mercaderia-jdbc-crud: App Swing con JDBC
 
 
-Copyright @Jose
+
+Copyright @JoeDayz 2013
 
