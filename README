@@ -10,7 +10,7 @@ Ejercicios
 1.- ClasesYObjetos: Ejercicios de clases Java
 2.- ReferenciasYPrimitivos: Ejercicios de tipos de variables
 3.- SimpleDotComGame: Juego para adivinar palabras en una fila
-4.- mercaderia-jdbc-crud: App Swing con JDBC
+4.- mercaderia-jdbc-crud: App Swing con JDBC.  Este proyecto necesita hsqldb-2.2.8.jar y log4j-1.2.16.jar. Ver carpeta lib.
 
 
 

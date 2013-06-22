@@ -1,0 +1,10 @@
+# Sin Maven
+build/
+bin/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
